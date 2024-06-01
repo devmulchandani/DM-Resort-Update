@@ -1,3 +1,3 @@
 # DM-Resort-Update
 
-[Live Demo](dm-resort-update.vercel.app)
+[Live Demo](https://dm-resort-update-git-main-devmulchandanis-projects.vercel.app/)
